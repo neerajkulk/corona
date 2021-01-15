@@ -4,3 +4,12 @@ The main file here is `realtime_r0.ipynb`. In this notebook, we explore fitting 
 
 Carefully analyzing the uncertainty in predictions if R<sub>0</sub> is essential to making accurate future predictions about the rate of spread of Covid-19. Please see  `realtime_r0.ipynb` for more details on the model. Feel free to make a PR if have ideas or suggestions to improve the model.
 
+
+## Estimation of posteriors
+![Estimation of Posteriors](./post.png)
+
+
+## Projections for future deaths
+![Future death predictions](./death_pred.png)
+
+
